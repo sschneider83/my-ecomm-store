@@ -1,0 +1,30 @@
+[
+  {
+    "id": "price_1ItWKyCfkqMK9mC9LKHBjNMN",
+    "title": "Bitcoin",
+    "description": "The Original",
+    "image": "/images/bitcoin.jpg",
+    "price": 30000
+  },
+  {
+    "id": "price_1ItWLrCfkqMK9mC9iC21xiwu",
+    "title": "Ethereum",
+    "description": "The Shooting Star",
+    "image": "/images/ethereum.jpeg",
+    "price": 3000
+  },
+  {
+    "id": "price_1ItWMLCfkqMK9mC9iS2QwRJO",
+    "title": "Dogecoin",
+    "description": "The Meme",
+    "image": "/images/dogecoin.png",
+    "price": 0.50
+  },
+  {
+    "id": "price_1ItWMmCfkqMK9mC9dMmn7SSv",
+    "title": "Monero",
+    "description": "The pioneer",
+    "image": "/images/monero.jpg",
+    "price": 2500
+  }
+]
