@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          The best place to buy cryptocurrency
+          The best place in the universe to buy cryptocurrency
         </p>
 
         <ul className={styles.grid}>
